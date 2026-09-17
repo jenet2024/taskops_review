@@ -27,8 +27,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Coordonnees SonarQube Cloud : remplacez par VOS valeurs -->
-        <sonar.organization>djoubat</sonar.organization>
-        <sonar.projectKey>Djoubat_taskops-api</sonar.projectKey>
+        <sonar.organization>jenet2024</sonar.organization>
+        <sonar.projectKey>jenet2024_taskops_review</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <!-- Indique a Sonar ou trouver le rapport de couverture produit par JaCoCo -->
         <sonar.coverage.jacoco.xmlReportPaths>
